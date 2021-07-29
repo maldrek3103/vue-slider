@@ -1,6 +1,17 @@
 body{
     background-color: #000;
 }
+.slider {
+    height: 100vh;
+}
+
+.slider img{
+    display: none;
+}
+
+figure img.active{
+    display: inline-block;
+}
 
 i{
     color: #fff;
