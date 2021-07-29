@@ -1,0 +1,11 @@
+body{
+    background-color: #000;
+}
+
+i{
+    color: #fff;
+}
+
+.clickable{
+    cursor: pointer;
+}
