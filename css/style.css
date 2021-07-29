@@ -28,7 +28,7 @@ i{
     padding: 5px;
     border-radius: 20px;
     position: absolute;
-    bottom: 30%;
+    bottom: 150px;
     left: 50%;
     transform: translatex(-50%);
 }
